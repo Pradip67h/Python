@@ -1,3 +1,4 @@
+#1. Arithmetic Operators
 # Addition
 print("Sum:", 9+6)
 
@@ -18,3 +19,5 @@ print("Remainder:", 9%6)
 
 # Exponentiation
 print("Exponentiation:", 9**6)
+
+#2. Assignment Operators
