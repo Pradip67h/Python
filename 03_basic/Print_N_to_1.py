@@ -11,4 +11,4 @@ def print_n_to_1(n):
     print_n_to_1(n-1)
     
 n = int(input("Enter n: "))
-print("the Factorial is:",print_n_to_1(n))    
+print(print_n_to_1(n))    
